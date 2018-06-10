@@ -1,5 +1,5 @@
 # FFE Blockchain
-![alt text](assets/BigFFE.png)
+![alt text](assets/SmallFFE.png)
 
 ## Overview
 
